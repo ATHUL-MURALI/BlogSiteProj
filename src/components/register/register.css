@@ -1,0 +1,73 @@
+.Backgrounds {
+    background-image: url('https://th.bing.com/th/id/R.2c920ed9f34bea9f3fe62a54a61cd7bb?rik=yxrmu0ZyWvLxGA&riu=http%3a%2f%2fblog.hdwallsource.com%2fwp-content%2fuploads%2f2016%2f01%2flock-and-key-wallpaper-49165-50827-hd-wallpapers.jpg&ehk=kF3FWZiv72ttDz%2f5UH18MmWugJjRFTci51YlvLZPKQs%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
+  
+  .card-forms {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    padding: 20px;
+  }
+  
+  
+  
+  .card-forms:hover {
+    transform: scale(1.02);
+  }
+  
+  .headings {
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .form-outlines {
+    position: relative;
+  }
+  
+  .form-control-lgs {
+    border: none;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    box-shadow: none;
+    padding: 15px;
+    width: 100%;
+  }
+  
+  .form-control-lg:focus {
+    box-shadow: none;
+  }
+  
+  .btn-secondarys {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .btn-secondarys:hover {
+    background-color: #0069d9;
+  }
+  
+  .text-centers {
+    font-size: 14px;
+  }
+  
+  .text-centers a {
+    color: #007bff;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .text-centers a:hover {
+    text-decoration: underline;
+  }
